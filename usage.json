@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/financial-rules-ifrs",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/financial-rules-ifrs",
+  "usageRepository": "https://github.com/x12i-sdk/financial-rules-ifrs",
+  "sourceRepository": "https://github.com/x12i/finanfix",
+  "sourceCommit": "8630e4c4f201deb35cd10c3790c9d5abdbce4633",
+  "sourcePackageDirectory": "packages/rules-ifrs",
+  "example": {
+    "title": "Read a financial rule fixture and check its support statement",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:18:56.750052+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "f51706bc0a9bf730a7e3398899943b19857e50979eff426310c9aa176e01ddb4",
+    "manifestSha256": "7d4e4a78e8ac03bcd59969069868bb95211b425ea0b009d2ee9c9c191b93b5e5"
+  }
+}
