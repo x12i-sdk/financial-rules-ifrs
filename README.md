@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Second reporting-framework fixture used to prove package isolation.
-- A Financial integration needs to reuse the capabilities of @x12i/financial-rules-ifrs inside a larger application.
+- Load the separate reporting-framework fixture to check rule-package isolation.
+- Inspect the fixture's labels and calendar while retaining its stated support limitations.
 
 ## Links
 
